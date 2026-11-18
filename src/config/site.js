@@ -1,0 +1,1 @@
+export const siteConfig={name:'Doble Código',people:'Luciana Ríos · Paula Bacigaluppo',whatsapp:'5490000000000',instagram:'https://instagram.com/TU_USUARIO',email:'hola@TU-DOMINIO.com',message:'Hola Doble Código 👋 Tengo una idea/proyecto y me gustaría contarles un poco más.'};export const wa=`https://wa.me/${siteConfig.whatsapp}?text=${encodeURIComponent(siteConfig.message)}`;

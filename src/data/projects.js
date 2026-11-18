@@ -1,0 +1,2 @@
+// Contenido temporal: reemplazá estos objetos por proyectos reales.
+export const projects=[{name:'Próximo proyecto',category:'WEB',description:'Espacio reservado para presentar un sitio web desarrollado por Doble Código.'},{name:'Próximo producto',category:'APP',description:'Espacio reservado para mostrar una aplicación y el problema que resuelve.'},{name:'Próximo sistema',category:'SISTEMA',description:'Espacio reservado para documentar un sistema de gestión a medida.'}];
